@@ -47,9 +47,3 @@ Estoy comprometida con seguir aprendiendo y creciendo en este nuevo camino tech.
 Te invito a visitar mi LinkedIn 
 www.linkedin.com/in/ilianajimenez17
 
-
-```
-
----
-
-¿Quieres que también lo traduzca al inglés o quieres agregar alguna sección con proyectos o redes sociales como LinkedIn?
