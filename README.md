@@ -41,7 +41,7 @@ Después de varios años trabajando en el sector turístico, decidí seguir mi c
 
 Estoy comprometida con seguir aprendiendo y creciendo en este nuevo camino tech. Estoy abierta a colaborar en proyectos, conectar con personas del medio y compartir lo que voy aprendiendo.
 
----
+
 
 ✨ ¿Conectamos?
 
