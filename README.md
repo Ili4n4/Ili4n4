@@ -9,6 +9,8 @@ Bienvenidos a mi perfil de GitHub 😊
 
 Después de varios años trabajando en el sector turístico, decidí seguir mi curiosidad y pasión por la tecnología. Hoy estoy en plena transición hacia el mundo tech y recientemente obtuve mi certificación como **QA Engineer** 🧪💻
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ### 🚀 Un poco sobre mí
 
 - 🌍 Background en ventas y marketing enfocado al turismo, lo que me ha enseñado a trabajar con personas, adaptarme rápido y resolver problemas con una sonrisa.
