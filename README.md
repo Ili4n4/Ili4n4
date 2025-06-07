@@ -1,5 +1,6 @@
 
-![Banner de LinkedIn  Azul Ilustrado Tecnología](https://github.com/user-attachments/assets/4bd98895-1385-4aca-b8ff-5577ea34540e)
+![Black White Blue Modern Technology Service LinkedIn Banner](https://github.com/user-attachments/assets/c20ce319-ebe5-4c4e-9202-1af0d06cc5a5)
+
 
 
 
