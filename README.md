@@ -1,7 +1,6 @@
 
 ![Black White Blue Modern Technology Service LinkedIn Banner](https://github.com/user-attachments/assets/c20ce319-ebe5-4c4e-9202-1af0d06cc5a5)
 
-www.linkedin.com/in/ilianajimenez17  
 
 
 # ¡Hola! Soy Iliana Jiménez 👋
