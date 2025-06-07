@@ -7,14 +7,11 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 Bienvenidos a mi perfil de GitHub 😊
 
-Soy QA Engineer Junior con formación práctica en pruebas manuales, manejo de herramientas como Postman y Jira y con gran atención al detalle. Me capacité intensivamente en el bootcamp de TripleTen, donde desarrollé proyectos reales que fortalecieron mis habilidades en la detección de errores y aseguramiento de la calidad. Me destaco por mi enfoque metódico, mis ganas de seguir aprendiendo y mi compromiso con la mejora continua, lo que me convierte en una excelente candidata para contribuir al éxito del equipo de calidad desde el primer día.
--------------------------------------------------------------------------------------------------------------------------------------------------------
-
 ### 🚀 Un poco sobre mí
 
-- 🌍 Background en ventas y marketing enfocado al turismo, lo que me ha enseñado a trabajar con personas, adaptarme rápido y resolver problemas con una sonrisa.
-- 🧠 Apasionada por el aprendizaje constante y la mejora continua.
-- 🎯 Actualmente enfocada en QA Tester y en seguir creciendo como profesional tech.
+- 🌍 Soy QA Engineer Junior con formación práctica en pruebas manuales, manejo de herramientas como Postman y Jira y con gran atención al detalle.
+- 🧠 Me capacité intensivamente en el bootcamp de TripleTen, donde desarrollé proyectos reales que fortalecieron mis habilidades en la detección de errores y aseguramiento de la calidad.
+- 🎯 Me destaco por mi enfoque metódico, mis ganas de seguir aprendiendo y mi compromiso con la mejora continua
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### 🛠️ Tecnologías y herramientas que manejo como QA Tester
