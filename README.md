@@ -4,7 +4,7 @@
 
 
 # ¡Hola! Soy Iliana Jiménez 👋
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------
 Bienvenidos a mi perfil de GitHub 😊
 
 Soy QA Engineer Junior con formación práctica en pruebas manuales, manejo de herramientas como Postman y Jira y con gran atención al detalle. Me capacité intensivamente en el bootcamp de TripleTen, donde desarrollé proyectos reales que fortalecieron mis habilidades en la detección de errores y aseguramiento de la calidad. Me destaco por mi enfoque metódico, mis ganas de seguir aprendiendo y mi compromiso con la mejora continua, lo que me convierte en una excelente candidata para contribuir al éxito del equipo de calidad desde el primer día.
