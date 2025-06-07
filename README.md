@@ -1,3 +1,8 @@
+
+![Banner de LinkedIn  Azul Ilustrado Tecnología](https://github.com/user-attachments/assets/4bd98895-1385-4aca-b8ff-5577ea34540e)
+
+
+
 # ¡Hola! Soy Iliana Jiménez 👋
 
 Bienvenidos a mi perfil de GitHub 😊
