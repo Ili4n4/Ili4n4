@@ -47,10 +47,7 @@ Bienvenidos a mi perfil de GitHub 😊
 
 Estoy comprometida con seguir aprendiendo y creciendo en este nuevo camino tech. 
 Estoy abierta a colaborar en proyectos, conectar con personas del medio y compartir lo que voy aprendiendo.
--------------------------------------------------------------------------------------------------------------------------------------------------------
-
 ✨ ¿Conectamos?
-
 Te invito a visitar mi LinkedIn 
 www.linkedin.com/in/ilianajimenez17
 
